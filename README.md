@@ -3,3 +3,4 @@
 A new line
 
 Again, a new line :)
+This line is a bit different...
